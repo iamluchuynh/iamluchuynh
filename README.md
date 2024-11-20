@@ -9,19 +9,19 @@ My name is Luc Huynh. I'm a senior at HCMUTE pursuing a degree in Mechatronics. 
 
 <a href="https://github.com/iamluchuynh/Data_Crawling_By_Scrapy">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Data_Crawling_By_Scrapy&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Data_Crawling_By_Scrapy&theme=radical&cache_seconds=300" />
 </a>    
 <a href="https://github.com/iamluchuynh/TaskTracker">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=TaskTracker&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=TaskTracker&theme=merko&cache_seconds=300" />
 </a>
 
 <a href="https://github.com/iamluchuynh/Huynh_Tan_Luc_LV2_Project_01">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Huynh_Tan_Luc_LV2_Project_01&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Huynh_Tan_Luc_LV2_Project_01&theme=gruvbox&cache_seconds=300" />
 </a>    
 <a href="https://github.com/iamluchuynh/Tiki_product_scraper">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Tiki_product_scraper&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Tiki_product_scraper&theme=dark&cache_seconds=300" />
 </a>
 
