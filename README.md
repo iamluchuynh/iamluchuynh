@@ -10,6 +10,15 @@ My name is Luc Huynh. I'm a senior at HCMUTE pursuing a degree in Mechatronics. 
 ## 📊GitHub Stats
 ![Luc Huynh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamluchuynh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/iamluchuynh/Glamira-Insights-with-DBT-BigQuery">
+  <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Glamira-Insights-with-DBT-BigQuery&theme=synthwave&cache_seconds=300" />
+</a>
+<a href="https://github.com/iamluchuynh/Tiki_product_scraper">
+  <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Tiki_product_scraper&theme=onedark&cache_seconds=300" />
+</a>
+
 <a href="https://github.com/iamluchuynh/Data_Crawling_By_Scrapy">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Data_Crawling_By_Scrapy&theme=radical&cache_seconds=300" />
@@ -22,13 +31,4 @@ My name is Luc Huynh. I'm a senior at HCMUTE pursuing a degree in Mechatronics. 
 <a href="https://github.com/iamluchuynh/Huynh_Tan_Luc_LV2_Project_01">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Huynh_Tan_Luc_LV2_Project_01&theme=gruvbox&cache_seconds=300" />
-</a>    
-<a href="https://github.com/iamluchuynh/Tiki_product_scraper">
-  <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Tiki_product_scraper&theme=onedark&cache_seconds=300" />
-</a>
-
-<a href="https://github.com/iamluchuynh/Glamira-Insights-with-DBT-BigQuery">
-  <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Glamira-Insights-with-DBT-BigQuery&theme=synthwave&cache_seconds=300" />
 </a>
