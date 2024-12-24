@@ -25,6 +25,10 @@ My name is Luc Huynh. I'm a senior at HCMUTE pursuing a degree in Mechatronics. 
 </a>    
 <a href="https://github.com/iamluchuynh/Tiki_product_scraper">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Tiki_product_scraper&theme=dark&cache_seconds=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Tiki_product_scraper&theme=onedark&cache_seconds=300" />
 </a>
 
+<a href="https://github.com/iamluchuynh/Glamira-Insights-with-DBT-BigQuery">
+  <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Glamira-Insights-with-DBT-BigQuery&theme=synthwave&cache_seconds=300" />
+</a>
