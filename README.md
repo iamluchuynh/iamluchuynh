@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Luc Huynh. I'm a senior at HCMUTE pursuing a degree in Mechatronics. My passion for Python programming, coupled with my proficiency in English, has enabled me to develop a unique skill set that bridges language and technology. Through my academic journey, I have honed my technical expertise, including a strong command of Python and the ability to work effectively with various databases.<br>
-## 📫 How to reach me: 
+## 📫 How To Reach Me: 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/LukeHuynh2910/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-luc/) 
 
