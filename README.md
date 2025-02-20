@@ -39,5 +39,6 @@ My name is Luc Huynh. I'm a senior at HCMUTE pursuing a degree in Mechatronics. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Huynh_Tan_Luc_LV2_Project_01&theme=gruvbox&cache_seconds=300" />
 </a>
 <a href="https://github.com/iamluchuynh/Kafka-Mongo_Integration">
+  <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamluchuynh&repo=Kafka-Mongo_Integration&theme=highcontrast&cache_seconds=300" />
 </a>
